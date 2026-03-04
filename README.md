@@ -22,6 +22,7 @@ Digital system design
 
 # Truth Table
 | A | B | Sum | Cout |
+| - | - | --- | ---  |
 | 0 | 0 |  0  |   0  | 
 | 0 | 1 |  0  |   0  |
 | 1 | 0 |  1  |   0  |
