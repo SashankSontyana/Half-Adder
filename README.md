@@ -21,8 +21,8 @@ Ripple Carry Adders
 Digital system design
 
 # Truth Table
-A	B	Sum	Carry
-0	0	0	0
-0	1	1	0
-1	0	1	0
-1	1	0	1
+| A | B | Sum | Cout |
+| 0 | 0 |  0  |   0  | 
+| 0 | 1 |  0  |   0  |
+| 1 | 0 |  1  |   1  |
+| 1 | 1 |  0  |   1  |
