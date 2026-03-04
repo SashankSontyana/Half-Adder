@@ -4,21 +4,21 @@ The circuit performs simple binary addition without considering any carry input 
 
 # Inputs
 A (1-bit)
-B (1-bit)
+ B (1-bit)
 
 # Outputs
 Sum (S)
-Carry (Cout)
+ Carry (Cout)
 
 # Boolean Expressions
 S = A ⊕ B
-Cout = A · B
+ Cout = A · B
 
 # Applications
-Basic binary addition
-Arithmetic Logic Unit (ALU) design
-Ripple Carry Adders
-Digital system design
+1. Basic binary addition
+2. Arithmetic Logic Unit (ALU) design
+3. Ripple Carry Adders
+4. Digital system design
 
 # Truth Table
 | A | B | Sum | Cout |
